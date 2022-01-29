@@ -3,21 +3,12 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\User;
+use App\Models\Post;
 
 class UserController extends Controller
 {
     public function index(){
-
-        $users = User::get();       
-    	return view('index', ['users'=>$users]);
-
+    	return view('index');
     }
-
-    public function contact(){
-        //this is new brachce laravel8crud
-    	return view('contact');
-
-    }
-
 }
+

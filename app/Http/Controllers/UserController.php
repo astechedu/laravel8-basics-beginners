@@ -15,7 +15,7 @@ class UserController extends Controller
     }
 
     public function contact(){
-
+        //this is new brachce laravel8crud
     	return view('contact');
 
     }

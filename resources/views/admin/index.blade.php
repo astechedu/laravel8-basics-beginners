@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Contact</title>
+	<title>Admin Index</title>
 </head>
 <body>
-  <h1>Contact</h1>
+	<h1>Admin Index Page....</h1>
 </body>
 </html>

@@ -1,5 +1,5 @@
 # Laravel 8 Basics For Beginners
-<<<<<<< HEAD
+
 
 
 ## Steps:
@@ -25,4 +25,3 @@
 =======
 ## Free download and use it.
 :+1:
->>>>>>> 12803863b4853562ed5d5a136e6f82eba938175e

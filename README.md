@@ -17,7 +17,7 @@
 	  php artisan serve
 
 
-	Your project by default starts on port 8000 however you can change it by executing followign command.
+Your project by default starts on port 8000 however you can change it by executing followign command.
 
 	  php artisan serve --port=8888
 

@@ -22,6 +22,3 @@
 
 
 :+1:
-=======
-## Free download and use it.
-:+1:

@@ -6,13 +6,30 @@
 
 ## Steps:
 
-### 1. Install Composer
+### 1. Install Composer 
+
+# OR
+
+### Laravel Installer
+
+    composer global require laravel/installer
+    
 
 ### 2. Install Laravel Project
+
+
+###### a. Installation Via Composer
 
 	  composer create-project --prefer-dist laravel/laravel laravel8-basics-beginners
 
 	  composer cd laravel8-basics-beginners
+      
+###### b. The Laravel Installer
+
+    laravel new laravel8-basics-beginners
+
+    cd laravel8-basics-beginners
+
 
 ### 3. Run Laravel Application
 

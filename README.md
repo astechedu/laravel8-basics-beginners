@@ -1,4 +1,4 @@
-![ ](https://www.trickprof.com/storage/app/blog/VnndaIkxTE0DtgU2DpUj9H7nqsvQSuAnGsWCIMeI.png)
+![ ](https://www.trickprof.com/storage/app/blog/VnndaIkxTE0DtgU2DpUj9H7nqsvQSuAnGsWCIMeI.png | widh=300)
 
 # Laravel 8 Basics For Beginners
 

@@ -1,4 +1,5 @@
 ![ ](https://www.trickprof.com/storage/app/blog/VnndaIkxTE0DtgU2DpUj9H7nqsvQSuAnGsWCIMeI.png | width=100)
+<img src="https://www.trickprof.com/storage/app/blog/VnndaIkxTE0DtgU2DpUj9H7nqsvQSuAnGsWCIMeI.png" width="100" height="100">
 
 # Laravel 8 Basics For Beginners
 
